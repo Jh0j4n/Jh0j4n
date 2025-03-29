@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Django and SpringBoot  
   
 
-- 🎵Fun Fact: The floppy disk icon is still used to save files… even though some people have never seen a real floppy disk! 💾  
+- A wise man does not succumb to stress; instead, he finds solace in the serenity of the universe.👨‍🦼  
   
 
 <br/>  
@@ -82,7 +82,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
   
 
 <br/>  
@@ -98,5 +97,3 @@
 <div align="center"></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
